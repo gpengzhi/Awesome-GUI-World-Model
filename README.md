@@ -27,6 +27,7 @@ A curated list of papers, datasets, benchmarks, and resources strictly focused o
 - [Computer-Using World Model](https://arxiv.org/abs/2602.17365) (2026-02)
 - [WebWorld: A Large-Scale World Model for Web Agent Training](https://arxiv.org/abs/2602.14721) (2026-02)
 - [Code2World: A GUI World Model via Renderable Code Generation](https://arxiv.org/abs/2602.09856) (2026-02) [[Code](https://github.com/AMAP-ML/Code2World)]
+- [Generative Visual Code Mobile World Models](https://arxiv.org/abs/2602.01576) (2026-02) [[Code](https://github.com/trillion-labs/gWorld)]
 - [MobileDreamer: Generative Sketch World Model for GUI Agent](https://arxiv.org/abs/2601.04035) (2026-01)
 - [MobileWorldBench: Towards Semantic World Modeling For Mobile Agents](https://arxiv.org/abs/2512.14014) (2025-12) [[Code](https://github.com/jacklishufan/MobileWorld)]
 - [Computer-Use Agents as Judges for Generative User Interface](https://arxiv.org/abs/2511.15567) (2025-11) [[Code](https://github.com/showlab/AUI)]
