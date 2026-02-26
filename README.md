@@ -24,7 +24,7 @@ A curated list of papers, datasets, benchmarks, and resources strictly focused o
 
 ## 📚 Papers
 
-- [SAFEPRED: A Predictive Guardrail for Computer-Using Agents via World Models](https://arxiv.org/pdf/2602.01725) (2026-02)
+- [SAFEPRED: A Predictive Guardrail for Computer-Using Agents via World Models](https://arxiv.org/abs/2602.01725) (2026-02)
 - [Computer-Using World Model](https://arxiv.org/abs/2602.17365) (2026-02)
 - [WebWorld: A Large-Scale World Model for Web Agent Training](https://arxiv.org/abs/2602.14721) (2026-02)
 - [Code2World: A GUI World Model via Renderable Code Generation](https://arxiv.org/abs/2602.09856) (2026-02) [[Code](https://github.com/AMAP-ML/Code2World)]
