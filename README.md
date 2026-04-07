@@ -37,7 +37,6 @@ A curated list of papers, datasets, benchmarks, and resources strictly focused o
 - [Computer-Using World Model](https://arxiv.org/abs/2602.17365) (2026-02)
 - [WebWorld: A Large-Scale World Model for Web Agent Training](https://arxiv.org/abs/2602.14721) (2026-02)
 - [Code2World: A GUI World Model via Renderable Code Generation](https://arxiv.org/abs/2602.09856) (2026-02) [[Code](https://github.com/AMAP-ML/Code2World)]
-- [GEBench: Benchmarking Image Generation Models as GUI Environments](https://arxiv.org/abs/2602.09007) (2026-02) [[Code](https://github.com/stepfun-ai/GEBench)]
 - [Generative Visual Code Mobile World Models](https://arxiv.org/abs/2602.01576) (2026-02) [[Code](https://github.com/trillion-labs/gWorld)]
 - [MirrorGuard: Toward Secure Computer-Use Agents via Simulation-to-Real Reasoning Correction](https://arxiv.org/abs/2601.12822) (2026-01)
 - [InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126) (2026-01)
